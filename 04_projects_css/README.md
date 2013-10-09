@@ -3,7 +3,7 @@
 ## Projects
 
 - Let's do something as a class!
-- Responsive websites ([watershedschool.org](http://watershedschool.org/))
+- Responsive websites (compare [watershedschool.org](http://watershedschool.org/) and [www.healthcare.gov](https://www.healthcare.gov/)  )
 - Mr. Barlow's website?
 - Web app?
 - Thoughts?

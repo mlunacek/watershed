@@ -3,7 +3,7 @@
 ## Projects
 
 - Let's do something as a class!
-- Responsive websites ([watershedschool.org](http://watershedschool.org/))
+- Responsive websites (compare [watershedschool.org](http://watershedschool.org/) and [www.healthcare.gov](https://www.healthcare.gov/)  )
 - Mr. Barlow's website?
 - Web app?
 - Thoughts?
@@ -26,8 +26,3 @@
 - examples: 12,19,25, 28
 
 Go to [codecademy](http://www.codecademy.com/) and start on lesson [css-coding-with-style](http://www.codecademy.com/tracks/afterschool-semester1)
-
-
-A lot of <span style="font-family:monospace">span</span> tags are <em style="color:red">useful</em> but the 
-<span style="font-family:monospace">span</span> tag is <em style="color:red">worthless</em> on its own unless 
-you use <span style="font-family:monospace;">CSS</span> to spice it up!
